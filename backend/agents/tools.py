@@ -317,7 +317,7 @@ def financial_calculator(operation: str, values: Dict[str, float]) -> Dict[str, 
             }
         
         elif operation == "future_value_simple":
-            # Versão simplificada para o Gemini entender melhor
+            
             principal = values.get('principal', 0)
             rate = values.get('rate', 0) / 100
             years = values.get('years', 0)

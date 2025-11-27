@@ -11,7 +11,7 @@ print("🤖 Iniciando Financial Agent com Google Gemini...")
 class AgentState(TypedDict):
     messages: Annotated[Sequence[BaseMessage], add_messages]
 
-# Importar ferramentas
+
 try:
     from agents.tools import (
         get_stock_price, 

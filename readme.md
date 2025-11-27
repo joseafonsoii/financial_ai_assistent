@@ -1,5 +1,7 @@
 # 🧠 Financial AI Assistant
 
+#  Author
+
 A sophisticated AI-powered financial assistant with real-time stock analysis, portfolio management, and financial calculations.
 
 ## 🚀 Features

@@ -8,7 +8,7 @@ print("🔧 Iniciando servidor Flask com Gemini...")
 
 load_dotenv()
 
-# Verificar API Key do Gemini
+
 api_key = os.getenv('GEMINI_API_KEY')
 if not api_key:
     print("❌ ERRO: GEMINI_API_KEY não encontrada no arquivo .env")

@@ -77,7 +77,7 @@ const ChatInterface = () => {
     setInput(prompt);
   };
 
-  // Estilos inline para substituir o Tailwind
+  // Estilos inline
   const styles = {
     container: {
       minHeight: '100vh',
