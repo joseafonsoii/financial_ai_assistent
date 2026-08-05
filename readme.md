@@ -1,6 +1,6 @@
 # 🧠 Financial AI Assistant
 
-#  Author
+#  Author: Jose Antonio Afonso
 
 A sophisticated AI-powered financial assistant with real-time stock analysis, portfolio management, and financial calculations.
 
